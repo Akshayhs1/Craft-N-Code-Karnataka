@@ -13,10 +13,9 @@ The Student Portal System provides students with a single platform to access aca
 
 ## Links
 
-- Code repository: [Paste your public GitHub project repository link]
+- Code repository: https://github.com/Akshayhs1/student-portal-system
 - Demo video: [Paste your public demo video link]
 - Slides: [Paste your public Google Slides link]
-- Deployed URL (optional): [Paste your live website link, if available]
 
 ## Short answers
 
